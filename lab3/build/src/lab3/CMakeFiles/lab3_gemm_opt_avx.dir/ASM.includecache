@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/msquare01/2024_fall/comparch/lab3/src/lab3/gemm_kernel_baseline.S
+
+/home/msquare01/2024_fall/comparch/lab3/src/lab3/gemm_kernel_opt_avx.S
+
